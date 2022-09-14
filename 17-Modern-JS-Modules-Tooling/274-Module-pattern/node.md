@@ -4,7 +4,7 @@
 
 > module is a JavaScript feature introduced in ES6, but in fact the concept of module existed before ES6, but was implemented in a different way.
 
-### _IIFE_
+#### _IIFE_
 
 ![Alt IIFE](pic/bandicam%202022-09-14%2009-18-05-777.jpg)
 
@@ -34,7 +34,7 @@
 
 - Theoretically, the function is removed from memory after execution and has no ability to save the variables, but we can obviously access them anyway because of the effect of the closure.
 
-### _Further proof of the existence of Closure_
+#### _Further proof of the existence of Closure_
 
 ![Alt closure of IIFE 2](pic/bandicam%202022-09-14%2009-33-14-780.jpg)
 
