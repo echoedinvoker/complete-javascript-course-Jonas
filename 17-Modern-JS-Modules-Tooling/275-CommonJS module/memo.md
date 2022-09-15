@@ -13,9 +13,9 @@
 
 #### Code example
 
-> CommonJS is just like ES6 module, one file, one module.
+- CommonJS is just like ES6 module, one file, one module.
 
-> The code below is only used as an example and cannot really be executed because CommonJS is not installed here.
+- The code below is only used as an example and cannot really be executed because CommonJS is not installed here.
 
 ###### export in CommonJS module
 
