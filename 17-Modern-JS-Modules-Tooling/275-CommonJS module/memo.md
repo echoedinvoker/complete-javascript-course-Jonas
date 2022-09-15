@@ -24,4 +24,4 @@
 
 ![Alt import in CommonJS](./pic/bandicam%202022-09-15%2013-54-04-999.jpg)
 
-- So in the CommonJS module system, "export" and "require" objects are used to export and import, which is the biggest difference from ES6 modules.
+> So in the CommonJS module system, "export" and "require" objects are used to export and import, which is the biggest difference from ES6 modules.
