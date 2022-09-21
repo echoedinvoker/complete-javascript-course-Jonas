@@ -1,0 +1,6 @@
+![Alt readable code](pic/bandicam%202022-09-22%2003-38-24-536.jpg)
+![Alt general](pic/bandicam%202022-09-22%2003-38-28-341.jpg)
+![Alt functions](pic/bandicam%202022-09-22%2003-38-32-475.jpg)
+![Alt OOP](pic/bandicam%202022-09-22%2003-38-45-732.jpg)
+![Alt avoid nested code](pic/bandicam%202022-09-22%2003-39-02-627.jpg)
+![Alt asynchronous code](pic/bandicam%202022-09-22%2003-39-07-531.jpg)
