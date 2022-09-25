@@ -22,7 +22,7 @@
 
 ![Alt comment calling function which has push ](pic/bandicam%202022-09-25%2014-29-25-692.jpg)
 
-- For now, we'll comment out the part that calls addExpenses to avoid exceptions.
+- For now, we'll comment out the part that calling addExpenses to avoid exceptions.
 
 ## **Object.freeze features**
 
