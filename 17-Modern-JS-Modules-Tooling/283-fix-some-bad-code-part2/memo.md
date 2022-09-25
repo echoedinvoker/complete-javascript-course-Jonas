@@ -75,6 +75,10 @@
 
 ![Alt add false return ](pic/bandicam%202022-09-25%2015-09-38-984.jpg)
 
+- We can find that each time we use addExpense, a new variable is generated and then passed to the next addExpense, and so on and so forth to get the final result, which is basically a **function chain**.
+  - We will use **composing** to create a function, which can execute all the processes in the function chain above in one go.
+    - But that would really be outside the scope of this course, because that is a whole big world on itself.
+
 # **_Function: checkExpense_**
 
 ![Alt original checkExpense func ](pic/bandicam%202022-09-25%2015-12-45-064.jpg)
