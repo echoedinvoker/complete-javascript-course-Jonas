@@ -8,6 +8,7 @@
 
 - We use the method Object.freeze to ensure that the data is not manipulated.
 - Object.freeze can also be used directly on array, since array is also an object.
+- In technical terminology, we implement **imutable** data.
 
 ## **Exception happen**
 
@@ -42,6 +43,7 @@
 ![Alt pass all data into func ](pic/bandicam%202022-09-25%2014-36-52-552.jpg)
 
 - In functional programming, instead of calling external data directly in the function, we first pass all the required data into the function first.
+- Although there are more than three parameters in addExpense, these specifications do not need to be completely met.
 
 ![Alt correct all calling getLimit part ](pic/bandicam%202022-09-25%2014-37-29-981.jpg)
 
